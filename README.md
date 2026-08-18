@@ -10,5 +10,5 @@ O curso aborda diversos aspectos da Engenharia de Software, desde os conceitos f
 O curso ocorre no IFMT Campus Cuiabá.
 
 # Conteúdo 
-- INtrodução a ES
+- Introdução a ES
 - Conceito de Software.
